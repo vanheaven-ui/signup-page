@@ -1,0 +1,22 @@
+{
+  "name": "signup-page",
+  "version": "1.0.0",
+  "description": "Clone of [mint.com signup page](http://archive.vn/9W9M6)",
+  "main": "stylelint.config.js",
+  "dependencies": {},
+  "devDependencies": {
+    "stylelint": "^13.2.1",
+    "stylelint-config-recommended": "^3.0.0"
+  },
+  "scripts": {
+    "stylelint": "npx stylelint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanheaven-ui/signup-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {},
+  "homepage": "https://github.com/vanheaven-ui/signup-pagee#readme"
+}
