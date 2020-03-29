@@ -177,7 +177,28 @@ button[type="submit"] {
   display: flex;
   align-items: center;
   flex-direction: column;
-  padding: 20px 100px;
+  color: #505050;
+  text-align: center;
+  padding: 10px 300px;
+  line-height: 1.5;
+}
+
+#footer-links {
+  display: flex;
+  padding: 5px 0;
+}
+
+#footer-links li {
+  padding: 0 0 0 10px;
 }
 
 /* FOOTER SECTION END */
+
+#privacy-button {
+  background: #686c72;
+  font-size: 14px;
+  padding: 10px 12px;
+  position: fixed;
+  bottom: 0;
+  right: 20px;
+}
