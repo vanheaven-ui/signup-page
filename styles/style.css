@@ -1,8 +1,51 @@
+/* GENERAL SECTION START */
+
+body {
+  background: #eceef1;
+}
+
+body > * {
+  font-family: "AvenirNext", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 12px;
+}
+
+.link {
+  cursor: pointer;
+  color: #1a83ca;
+}
+
+button {
+  background-color: #0077c5;
+  cursor: pointer;
+}
+
+/* GENERAL SECTION END */
+
 /* NAVIGATION SECTION START */
 
 nav {
   display: flex;
   justify-content: flex-end;
+  padding: 10px 30px;
+}
+
+#forgot-password {
+  line-height: 1.4;
+  margin-right: 10px;
+  text-align: center;
+}
+
+#sign-in-button {
+  padding: 9px 20px;
+  color: #fff;
+  border-radius: 4px;
+  border: 1px solid #4c4c4c;
+  font-size: 13.5px;
+}
+
+button i {
+  margin-right: 2px;
+  font-size: 16px;
 }
 
 /* NAVIGATION SECTION END */
@@ -41,16 +84,3 @@ footer {
 }
 
 /* FOOTER SECTION END */
-
-/* GENERAL SECTION START */
-
-body {
-  background: #eceef1;
-}
-
-.link {
-  cursor: pointer;
-  color: #1a83ca;
-}
-
-/* GENERAL SECTION END */
