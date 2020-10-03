@@ -45,7 +45,7 @@ this will install all the packages used for development purpose, mainly `stylint
 
 - Github: [@vanheaven-ui](https://github.com/vanheaven-ui)
 - Twitter: [@MworekwaE](https://twitter.com/MworekwaE)
-- cd- Linkedin: [linkedin](www.linkedin.com/in/vanheaven)
+- Linkedin: [linkedin](www.linkedin.com/in/vanheaven)
 
 ## 🤝 Contributing
 
