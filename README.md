@@ -1,7 +1,7 @@
 # The [mint.com](https://accounts.intuit.com/signup.html?offering_id=Intuit.ifs.mint&namespace_id=50000026&redirect_url=https%3A%2F%2Fmint.intuit.com%2Foverview.event%3Futm_medium%3Ddirect%26cta%3Dhero_sign_up_free_ProspectWeb%26ivid%3D4e3573c4-8bf1-4035-a7f3-4838ad0ed57e%26adobe_mc%3DMCMID%253D41857442784418137370889927368379101233%257CMCORGID%253D969430F0543F253D0A4C98C6%252540AdobeOrg%257CTS%253D1585469032%26ivid%3D4e3573c4-8bf1-4035-a7f3-4838ad0ed57e#) Signup Page Clone
 
 
-This project was completed under the Microverse remote software development curriculum. 
+This project was completed under the Microverse remote software development curriculum. The task was to clone the sign up page of [mint.com](https://accounts.intuit.com/signup.html?offering_id=Intuit.ifs.mint&namespace_id=50000026&redirect_url=https%3A%2F%2Fmint.intuit.com%2Foverview.event%3Futm_medium%3Ddirect%26cta%3Dhero_sign_up_free_ProspectWeb%26ivid%3D4e3573c4-8bf1-4035-a7f3-4838ad0ed57e%26adobe_mc%3DMCMID%253D41857442784418137370889927368379101233%257CMCORGID%253D969430F0543F253D0A4C98C6%252540AdobeOrg%257CTS%253D1585469032%26ivid%3D4e3573c4-8bf1-4035-a7f3-4838ad0ed57e#)
 
 ![screenshot](./images/screenshot.png)
 
